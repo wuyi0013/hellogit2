@@ -1,0 +1,9 @@
+springcloud项目导入时打开文件夹选中pom文件，
+http://10.108.214.85:8848/nacos/index.html
+http://localhost:9093/#/dashboard    
+授权中心管理员 oauth 123456
+系统管理员 sys 123456
+
+前端项目  npm install   npm run serve
+数据库配置 D:\IDEA_WorkSpace\jehc-cloud-master\nacos\console\src\main\resources\application.properties   nacos库
+
